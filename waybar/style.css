@@ -32,7 +32,7 @@ window#waybar {
  {
   padding: 0 10px;
 	background: #DE6588;
-  color: white;
+  color: #FDCECB;
 }
 #workspaces button.active {
     color: #142458;
