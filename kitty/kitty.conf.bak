@@ -1,8 +1,7 @@
 font_family JetBrainsMono Nerd Font
 font_size 13 
 background_opacity 0.6
-background_blur 1 
-text_fg_override_threshold 0
+background_blur 64 
 
 
 
